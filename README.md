@@ -1,1 +1,2 @@
 # Customer-Churn-Prediction-Logistic-Regression
+Developed a binary classification model to predict customer churn in a subscription-based business. Conducted EDA to analyze churn patterns and relationships between customer behavior and churn risk. Preprocessed data using categorical encoding and feature scaling for model stability. Built and evaluated a Logistic Regression model using accuracy, precision, recall, and confusion matrix. Generated churn probability scores to support proactive customer retention strategies.
